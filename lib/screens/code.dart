@@ -4,7 +4,7 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 
 class TextFieldCubitPage extends StatelessWidget {
   final TextEditingController _controller = TextEditingController();
-////
+
   @override
   Widget build(BuildContext context) {
     return BlocProvider(
